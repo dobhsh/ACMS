@@ -1,0 +1,19 @@
+[{"store_id":"000001","successful_delivery":"80%",
+  "delivery_failures":"20%","successful_pickup":"70%",
+  "pickup_failures":"30%","package_lost":"5%" },
+
+ {"store_id":"000002","successful_delivery":"90%",
+  "delivery_failures":"10%","successful_pickup":"85%",
+  "pickup_failures":"15%","package_lost":"2%" },
+
+ {"store_id":"000003","successful_delivery":"96%",
+  "delivery_failures":"4%","successful_pickup":"98%",
+  "pickup_failures":"2%","package_lost":"1%" },
+
+ {"store_id":"000004","successful_delivery":"92%",
+  "delivery_failures":"8%","successful_pickup":"83%",
+  "pickup_failures":"17%","package_lost":"4%" },
+
+ {"store_id":"000005","successful_delivery":"99%",
+  "delivery_failures":"1%","successful_pickup":"97%",
+  "pickup_failures":"3%","package_lost":"3%" } ]

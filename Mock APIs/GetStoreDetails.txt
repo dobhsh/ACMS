@@ -1,0 +1,5 @@
+[{"store_id":"000001","location":"E-129/8,Pul Pehlad Pur","Contact_Number":"4231561829"},
+ {"store_id":"000002","location":"B-135/4,Rohini West","Contact_Number":"6532689075"},
+ {"store_id":"000003","location":"C-234/1,Moolchand","Contact_Number":"6424689076"},
+ {"store_id":"000004","location":"A-321/8,Okhla","Contact_Number":"1334556742"},
+ {"store_id":"000005","location":"D-121/3,Sarita Vihar","Contact_Number":"7523540819"} ]
